@@ -1,6 +1,6 @@
 var img;
 function preload(){
-img = loadImage("project3/the.png");
+img = loadImage("images1/crying.png");
 }
 
 function setup() {
